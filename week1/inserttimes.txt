@@ -1,0 +1,10 @@
+27378size 1.09seconds. 
+39158size 1.83seconds. 
+31758size 1.59seconds. 
+54456size 3.82seconds. 
+24056size 0.78seconds. 
+51669size 3.39seconds. 
+70627size 6.06seconds. 
+90790size 9.89seconds. 
+60961size 4.54seconds. 
+82451size 8.02seconds. 
